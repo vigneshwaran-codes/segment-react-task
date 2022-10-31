@@ -1,0 +1,32 @@
+.footer{
+    background-color: #eeeeee;
+    color: #fafafa;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 25px;
+}
+
+.btn-success{
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #3cb371;
+    border: none;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.btn-danger{
+    text-align: center;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffffff;
+    color: #dc143c;
+    margin: 5px;
+    cursor: pointer;
+}

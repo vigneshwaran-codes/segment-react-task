@@ -1,0 +1,65 @@
+/* .list-container{
+    margin: auto;
+    padding: 1rem;
+    line-height: 1;
+}
+
+.btn-schema{
+    border: none;
+    text-decoration: underline;
+    background: #ffffff;
+    color: #3cb371;
+    cursor: pointer;
+}
+
+.list-traits{
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    padding: 8px;
+}
+
+.traits-txt{
+    padding: 4px;
+}
+
+.list-dropdown-container{
+    margin: 6px;
+    padding: 40px;
+    border: 2px solid #1e90ff;
+    width: 100%;
+}
+
+.dot-user{
+    width: 12.5px;
+    height: 12.5px;
+    border-radius: 50%;
+    background-color: #00fa9a;
+    display: inline-block;
+}
+
+.dot-group{
+    width: 12.5px;
+    height: 12.5px;
+    border-radius: 50%;
+    background-color: #dc143c;
+    display: inline-block;
+}
+
+.input-container{
+    margin: auto;
+    padding: 15px;
+    line-height: 2.5rem;
+}
+
+.input{
+    width: 400px;
+    margin: 8px;
+    padding: 12px;
+}
+
+.txt{
+    font-size: 16px;
+    font-weight: 300;
+    color: #111111;
+} */

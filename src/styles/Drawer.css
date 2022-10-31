@@ -1,0 +1,15 @@
+.drawer-btn{
+    border: 3px solid #ffffff;
+    color: #fafafa;
+    background-color:#eeeeee;
+}
+
+.select-container{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    height: 100vh;
+    display: inline-block;
+    overflow: scroll;
+    overflow-x: hidden;
+}
